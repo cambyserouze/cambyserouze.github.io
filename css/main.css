@@ -104,6 +104,7 @@ img {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  font-weight: 200;
 
 }
 
@@ -115,7 +116,6 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 500;
   color: #404040;
 }
 
