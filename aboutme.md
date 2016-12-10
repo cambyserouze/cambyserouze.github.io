@@ -1,6 +1,5 @@
 ---
 layout: page
-title: cacs
 bigimg: /img/blackboardcopy.jpg
 published: true
 ---
