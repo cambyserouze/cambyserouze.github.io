@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-bigimg: /img/blackboard.jpg
+bigimg: /img/blackboard copy.jpg
 published: true
 ---
 
