@@ -225,7 +225,7 @@ hr.small {
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 50;
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
@@ -329,7 +329,7 @@ form .row:first-child .floating-label-form-group {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 100;
+  font-weight: 50;
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
