@@ -10,10 +10,9 @@ published: true
 
 ![GitHub Logo](/img/paper.jpg)
 
-
 # Quantum probability
 
-![GitHub Logo](/img/paper.jpg)
+![GitHub Logo](/img/Ekert_800_320.jpg)
 
 # Decoherence
 
