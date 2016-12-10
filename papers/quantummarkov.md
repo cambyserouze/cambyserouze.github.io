@@ -8,7 +8,8 @@ published: true
 
 # Probability theory
 
-bigimg: /img/paper.jpg
+![GitHub Logo](/img/paper.jpg)
+Format: ![Alt Text](url)
 
 # Quantum probability
 
