@@ -9,7 +9,7 @@ published: true
 # Probability theory
 
 ![GitHub Logo](/img/paper.jpg)
-Format: ![Alt Text](url)
+
 
 # Quantum probability
 
