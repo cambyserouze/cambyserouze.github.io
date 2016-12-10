@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 bigimg: /img/blackboardcopy.jpg
 published: true
 ---
