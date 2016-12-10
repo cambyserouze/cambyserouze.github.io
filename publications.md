@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-bigimg: /img/imge library.jpeg
+bigimg: /img/imgelibrary.jpg
 published: true
 ---
 
