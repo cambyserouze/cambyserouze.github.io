@@ -14,7 +14,6 @@ Felix Leditzky, Cambyse Rouzé and Nilanjana Datta: Data processing for the sand
 # Submitted articles
 
 Nilanjana Datta, Yan Pautrat and Cambyse Rouzé: Contractivity properties of a quantum diffusion semigroup, to appear in Journal of Mathematical Physics (2016) [Arxiv]
-
  
 
 # Preprints
