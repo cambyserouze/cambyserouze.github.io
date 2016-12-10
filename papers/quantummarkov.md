@@ -8,7 +8,7 @@ published: true
 
 # Probability theory
 blabla
-# Quantum probability
+## Quantum probability
 blabla
-# Decoherence
+### Decoherence
 blabla
