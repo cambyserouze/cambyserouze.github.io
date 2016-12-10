@@ -5,7 +5,7 @@ title: Quantum Markov chains
 bigimg: /img/paper.jpg
 published: true
 ---
-
+style="text-align:justify"> 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -406,3 +406,4 @@ We now move towards the notion of periodicity. A state <span class="math inline"
 <h2 id="continuous-time-limits">Continuous time limits</h2>
 </body>
 </html>
+
