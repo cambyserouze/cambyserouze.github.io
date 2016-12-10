@@ -185,6 +185,7 @@ hr.small {
 }
 .intro-header .post-heading h1 {
   font-size: 35px;
+	  font-weight: 20;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -210,9 +211,11 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
+	    font-weight: 20;
   }
   .intro-header .post-heading .subheading {
     font-size: 30px;
+	    font-weight: 20;
   }
 }
 .post-preview > a {
@@ -251,6 +254,7 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
+	    font-weight: 20;
   }
 }
 .section-heading {
@@ -267,6 +271,7 @@ hr.small {
   display: block;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+	  font-weight: 20;
 }
 footer {
   padding: 50px 0 65px;
@@ -338,6 +343,7 @@ form .row:first-child .floating-label-form-group {
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
+	  font-weight: 20;
 }
 .btn-lg {
   font-size: 16px;
@@ -368,6 +374,7 @@ form .row:first-child .floating-label-form-group {
   .pager li > span {
     font-size: 14px;
     padding: 15px 25px;
+	    font-weight: 20;
   }
 }
 .pager li > a:hover,
