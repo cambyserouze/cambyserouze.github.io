@@ -190,12 +190,12 @@ hr.small {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
-  font-weight: 100;
+  font-weight: 50;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lato', 'Times New Roman', serif;
   font-style: italic;
-  font-weight: 100;
+  font-weight: 50;
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
@@ -351,7 +351,7 @@ form .row:first-child .floating-label-form-group {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 50;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: white;
