@@ -2,6 +2,8 @@
 layout: page
 title: About
 published: true
+bigimg: /img/blackboard.jpg
+
 ---
 I am currently a PhD student in mathematics at the Cambridge Center for Analysis, University of Cambridge, under the supervision of Dr. Nilanjana Datta.
 
