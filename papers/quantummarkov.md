@@ -13,8 +13,8 @@ published: true
 
 # Quantum probability
 
-bigimg: /img/paper.jpg
+![GitHub Logo](/img/paper.jpg)
 
 # Decoherence
 
-bigimg: /img/paper.jpg
+![GitHub Logo](/img/paper.jpg)
