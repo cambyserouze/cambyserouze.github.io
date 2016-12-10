@@ -7,8 +7,10 @@ published: true
 ---
 
 # Probability theory
-blabla
+
+bigimg: /img/paper.jpg
+
 # Quantum probability
-blabla
+bigimg: /img/paper.jpg
 # Decoherence
-blabla
+bigimg: /img/paper.jpg
