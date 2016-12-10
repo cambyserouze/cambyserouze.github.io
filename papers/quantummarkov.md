@@ -16,4 +16,4 @@ published: true
 
 # Decoherence
 
-![GitHub Logo](/img/paper.jpg)
+![GitHub Logo](/img/quantumprob.jpg)
