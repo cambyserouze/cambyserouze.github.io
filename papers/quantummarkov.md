@@ -2,7 +2,7 @@
 layout: page
 title: Quantum Markov chains
 #subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+bigimg: /img/paper.jpg
 published: true
 ---
 
