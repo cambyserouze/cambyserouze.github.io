@@ -11,6 +11,9 @@ published: true
 bigimg: /img/paper.jpg
 
 # Quantum probability
+
 bigimg: /img/paper.jpg
+
 # Decoherence
+
 bigimg: /img/paper.jpg
